@@ -7,6 +7,7 @@ For native app I choose to use Java, SQLite and Firebase for development. For hy
 - Name: Nguyen Quang Huy
 - Email: huynqdev1612@gmail.com
 - StudentID: GCS190632
+- Phone: 0833876372
 ---
 ## Before launching projects please do below steps:
 - Install Android Studio
