@@ -7,6 +7,7 @@ For native app I choose to use Java, SQLite and Firebase for development. For hy
 - Name: Nguyen Quang Huy
 - Email: huynqdev1612@gmail.com
 - StudentID: GCS190632
+- Phone: 0833876372
 ---
 ## Before launching projects please do below steps:
 - Install Android Studio
@@ -23,8 +24,8 @@ For native app I choose to use Java, SQLite and Firebase for development. For hy
   + npm install
   + npx expo install
 - Step 3: Open a Virtual Phone
-- Step 4: Run the command below, terminal will display a list of actions and associated shortcuts
-- Step 5: Press a to launch the project on Virtual Phone (Press the r button to reload the application, press the key combination Ctrl + c to close the application)
+- Step 4: Run the command 'npm run start', terminal will display a list of actions and associated shortcuts
+- Step 5: Press key 'a' to launch the project on Virtual Phone (Press the key 'r' button to reload the application, press the key combination Ctrl + c to close the application)
 ---
 ## Setup environment variable:
 - If you clone the project on my git hub there will be no .env file please make .env file equal to App.tsx file. In the .env file will contain the following environment variables:
